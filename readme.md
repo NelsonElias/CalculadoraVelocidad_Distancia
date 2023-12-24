@@ -8,7 +8,7 @@
 
 ### 1.1 primera parte del programa 
 
-![primerbucle](https://drive.google.com/file/d/1lCBCfd-X4m4vGbKYtYz3mhsWjA2XayUP/view?usp=drive_link)
+![primerbucle](primerbucle.png)
 
 ### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
 ### una opción en base a su interes
