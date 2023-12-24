@@ -13,6 +13,8 @@
 ### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
 ### una opción en base a su interes
 
+![primerbucle](capturas/primerbucle.png)
+
 ### 1.2 primera opción (Velocidad Promedio)
 
 
