@@ -7,7 +7,8 @@
 ## CAPTURAS DEL PROGRAMA
 
 ### 1.1 primera parte del programa 
-![PrimerBucle](./capturas/primerbucle.png)
+
+![primerbucle](https://drive.google.com/file/d/1lCBCfd-X4m4vGbKYtYz3mhsWjA2XayUP/view?usp=drive_link)
 
 ### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
 ### una opción en base a su interes
