@@ -7,15 +7,20 @@
 ## CAPTURAS DEL PROGRAMA
 
 ### 1.1 primera parte del programa 
-
-![primerbucle](capturas/primerbucle.png)
-
-### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
-### una opción en base a su interes
+#### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
+#### una opción en base a su interes
 
 ![primerbucle](capturas/primerbucle.png)
 
 ### 1.2 primera opción (Velocidad Promedio)
+#### si el usuario ingreso la primera opción se le dara la bienvenida al modo de calculo velocidad promedio, donde se le pedira que ingrese la cantidad de kilometros recorridos y ademas la cantidad de horas que se recorrieron.
+![segundobucle](capturas/segundobucle.png)
+
+### la formula matematica: 
+![formulamatematica1](capturas/formulavelocidadpromedio.png)
+
+
+
 
 
 
