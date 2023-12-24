@@ -7,7 +7,7 @@
 ## CAPTURAS DEL PROGRAMA
 
 ### 1.1 primera parte del programa 
-![PrimerBucle](capturas/primerbucle.png)
+![PrimerBucle](./capturas/primerbucle.png)
 
 ### en esta primera parte se le da la bienvenida al programa y se le solicita que ingrese
 ### una opción en base a su interes
